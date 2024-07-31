@@ -1,6 +1,6 @@
 name: proj_cicd_test
 description: to test the cicd process
-version: 0.0.1
+version: v1
 author: sharad.ghallal@cloudaeon.net
 language: python
 buildSystem: ''
